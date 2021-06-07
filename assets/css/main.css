@@ -4687,3 +4687,21 @@ input, select, textarea {
 		}
 
 	}
+
+.flex{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+
+.left{
+	flex: 1;
+}
+
+.right{
+	flex: 2;
+}
+
+.selfImage{
+	margin: -15px;
+}
